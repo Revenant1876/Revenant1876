@@ -11,7 +11,7 @@ Programming Languages I know and used:
 
 I'm currently learning:
 Phyton and Web Development this year.
-Going to learn Networking next year.
+Going to learn maybe Networking or Software next year.
 
 looking for tips and help that can help ne improve my programming skills and journey.
 
